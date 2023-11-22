@@ -40,7 +40,7 @@
 
 .banner-section{
     padding: 100px 0;
-    background: url(img/banner-bg.jpg);
+    background: url(banner-bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -99,7 +99,7 @@
 /* FOOTER */
 
 .footer{
-    background: url(img/footer-bg.jpg);
+    background: url(footer-bg.jpg);
     background-size: cover;
     padding: 100px 0px;
 }
