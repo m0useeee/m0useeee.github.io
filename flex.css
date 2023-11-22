@@ -1,0 +1,42 @@
+.menu{
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-around;
+}
+.header-row{
+display: flex;
+flex-direction: row;
+align-items:center;
+}
+.header-logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo-img{
+    margin-right: 40px;
+}
+.header-menu{
+    flex-grow: 3;
+
+}
+.cards-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer-logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-left: 73%;
+   
+}
+.footer-pop{
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+
